@@ -1,0 +1,35 @@
+{
+    "name": "jucayo-extension-pack",
+    "displayName": "Jucayo Extension pack Angular",
+    "description": "Tools for angular projects",
+    "version": "0.0.1",
+    "publisher": "jcyovera",
+    "icon": "assets/logo-jc.png",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jcyovera/jucayo-ng-extension-pack"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ],
+    "extensionDependencies": [
+        "steoates.autoimport",
+        "msjsdiag.debugger-for-chrome",
+        "esbenp.prettier-vscode",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "johnpapa.Angular2",
+        "kisstkondoros.vscode-codemetrics",
+        "eamodio.gitlens",
+        "EditorConfig.EditorConfig",
+        "natewallace.angular2-inline",
+        "alexiv.vscode-angular2-files",
+        "ionutvmi.path-autocomplete",
+        "rbbit.typescript-hero"
+    ]
+}

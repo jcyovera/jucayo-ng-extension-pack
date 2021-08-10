@@ -2,7 +2,7 @@
     "name": "jucayo-extension-pack",
     "displayName": "Angular Extension pack",
     "description": "Tools for angular projects",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "jcyovera",
     "icon": "assets/logo-jc.png",
     "engines": {
@@ -20,7 +20,6 @@
     ],
     "extensionDependencies": [
         "steoates.autoimport",
-        "msjsdiag.debugger-for-chrome",
         "esbenp.prettier-vscode",
         "ms-vscode.vscode-typescript-tslint-plugin",
         "johnpapa.Angular2",

@@ -1,4 +1,4 @@
-# Jucayo Angular Extension Package
+# JcOnSoftware Angular Extension Package
 For all your needs.
 
 -   [Description](#description)
@@ -6,7 +6,10 @@ For all your needs.
 -   [Known Issues](#known-issues)
 
 ## Description
-This extension aims to provide you good tools for angular development.
+This extension aims to provide good tools for angular development.
+- Include Code Metrics to compute the complexity in your code
+- Prettier A good Code formater
+- TSLint
 
 ## Usage
 You can install this package from vs code and use inside vscode.

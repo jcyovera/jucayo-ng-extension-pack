@@ -1,8 +1,8 @@
 {
     "name": "jucayo-extension-pack",
     "displayName": "Angular Extension pack",
-    "description": "Tools for angular projects",
-    "version": "0.0.2",
+    "description": "Tools for angular projects by JcOnSoftware",
+    "version": "0.0.3",
     "publisher": "jcyovera",
     "icon": "assets/logo-jc.png",
     "engines": {
@@ -29,6 +29,8 @@
         "natewallace.angular2-inline",
         "alexiv.vscode-angular2-files",
         "ionutvmi.path-autocomplete",
-        "rbbit.typescript-hero"
+        "rbbit.typescript-hero",
+        "Angular.ng-template",
+        "christian-kohler.path-intellisense"
     ]
 }

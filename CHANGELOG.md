@@ -4,6 +4,9 @@ All notable changes to the "jucayo-extension-pack" extension pack will be docume
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+# [v0.0.4]
+
+- Removing TSLint to use ESlint.
 ## [v0.0.3]
 
 - Adding Angular Language Service

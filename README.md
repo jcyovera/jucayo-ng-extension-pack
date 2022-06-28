@@ -9,13 +9,16 @@ For all your needs.
 This extension aims to provide good tools for angular development.
 - Include Code Metrics to compute the complexity in your code
 - Prettier A good Code formater
-- TSLint
+- ESLint
+- Git Lens
+- Angular extensions
 
 ## Usage
 You can install this package from vs code and use inside vscode.
 
 ## Developers
 ```sh
+$ npm install -g vsce
 $ cd myExtension
 $ vsce package
 # myExtension.vsix generated

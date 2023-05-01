@@ -2,7 +2,7 @@
     "name": "jucayo-extension-pack",
     "displayName": "Angular Extension pack",
     "description": "Tools for angular projects by JcOnSoftware",
-    "version": "0.0.4",
+    "version": "1.0.0",
     "publisher": "jcyovera",
     "icon": "assets/logo-jc.png",
     "engines": {

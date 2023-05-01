@@ -29,8 +29,8 @@
         "natewallace.angular2-inline",
         "alexiv.vscode-angular2-files",
         "ionutvmi.path-autocomplete",
-        "rbbit.typescript-hero",
         "Angular.ng-template",
-        "christian-kohler.path-intellisense"
-    ]
+        "christian-kohler.path-intellisense",
+        "yoavbls.pretty-ts-errors"
+      ]
 }
